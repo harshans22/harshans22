@@ -1,6 +1,9 @@
 # 💫 About Me:
 This is the place where I opensource stuff and break things 🤣<br>🔭  I’m currently working... <br>🌱  I’m currently learning SpringBoot and Flutter<br>💬  Ask me about anything related to Flutter/Java/Automation <br>📫   Reach me out: anshharsh22@gmail.com.<br>
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/harsh_60604) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-singh-639316291) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harshhub.414) 
