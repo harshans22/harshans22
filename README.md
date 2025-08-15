@@ -1,8 +1,6 @@
 # 💫 About Me:
 This is the place where I opensource stuff and break things 🤣<br>🔭  I’m currently working... <br>🌱  I’m currently learning SpringBoot and Flutter<br>💬  Ask me about anything related to Flutter/Java/Automation <br>📫   Reach me out: anshharsh22@gmail.com.<br>
 
-![](https://komarev.com/ghpvc/?username=anshumannandan)
-
 
 
 ## 🌐 Socials:
