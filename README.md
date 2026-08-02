@@ -15,11 +15,11 @@ Every feature I build starts with a question: *does this actually make someone's
 - 🎓 B.Tech Graduate — engineering is my foundation, curiosity is my engine
 - 🏦 Built for **Fintech** — payments, transactions, systems where trust and speed both matter
 - 🎮 Built for **Gaming** — performance, delight, experiences people want to come back to
-- 🤖 I build **AI-native solutions** — designed around AI from day one, not bolted on after
-- 🚀 I own the **full product lifecycle end-to-end** — architecture, code, deployment, and infra, no matter what it takes
+- 🤖 I build **AI-native solutions** — designed around AI from day one
+- 🚀 I own the **full product lifecycle end-to-end** — architecture, code, deployment, and infra
 - 🧠 I care about the "why" behind a product as much as the "how" of the code
-- 🔍 Endlessly curious — if I don't know it yet, that's just my next project
-- ⚡ I treat hard problems as invitations, not obstacles — ready to build anything, anytime
+- 🔍 Endlessly curious — always exploring something new to learn and build
+- ⚡ Ready to build anything, anytime — every problem is an invitation
 - 🌱 Currently sharpening: Spring Boot, Flutter, System Design, and AI-native architecture patterns
 - 💬 Talk to me about: Flutter · Java · Spring Boot · AI-Native Systems · Automation · Product Thinking · Fintech Architecture
 - 📫 Reach me: [anshharsh22@gmail.com](mailto:anshharsh22@gmail.com)
@@ -70,21 +70,9 @@ Every feature I build starts with a question: *does this actually make someone's
 
 ---
 
-## 🏆 Milestones
-
-![](https://github-profile-trophy.vercel.app/?username=harshans22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-### 🔝 Where I've Contributed the Most
-
-![](https://github-contributor-stats.vercel.app/api?username=harshans22&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
 ## 🎯 What's Next
 
-I'm looking for problems worth solving — not just tickets to close.
+I'm always looking for problems worth solving.
 If you're building something where curiosity, product thinking, and solid engineering meet, let's talk.
 
 <p align="center">
